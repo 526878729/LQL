@@ -1,0 +1,157 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.services-side-menu {
+  height: 800px;
+}
+
+.funds-details-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 30px;
+  border-top: 3px solid #ff9700;
+}
+
+.funds-details-box .active {
+  background-color: #f5fdff;
+}
+
+.funds-details-item {
+  position: relative;
+  float: left;
+  width: 25%;
+  border-right: 1px solid #ededed;
+  padding: 40px 0 40px 40px;
+}
+
+.funds-details-title {
+  font-size: 14px;
+  color: #838383;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.title-status {
+  font-size: 11px;
+  color: white;
+  display: inline-block;
+  padding: 0 8px 0 13px;
+  text-align: center;
+  background-image: url(../img/title-status-bg.png);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.funds-outstanding {
+  font-size: 22px;
+  color: #ff4b4b;
+}
+
+.funds-normal {
+  font-size: 18px;
+  color: #666666;
+}
+
+.my-investment-tabs-box {
+  position: relative;
+  width: 100%;
+  float: left;
+  margin-top: 15px;
+}
+
+.nav-tabs li {
+  padding: 0 5px 0 0;
+}
+
+.nav-tabs li a {
+  font-size: 16px;
+  padding: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  background-color: #fff;
+}
+
+.nav-tabs li a > img {
+  margin-right: 8px;
+  margin-bottom: 2px;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+  font-size: 16px;
+  color: #ff9700;
+  cursor: default;
+  padding-bottom: 20px;
+  background-color: #fff;
+  /*border-top: 4px solid #ff9700;*/
+  border-bottom-color: transparent
+}
+
+/*click to change icon*/
+.nav-tabs li a .investing-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 3px;
+  background-image: url(../img/investing-icon.png);
+}
+
+.nav-tabs li a .done-icon {
+  width: 18px;
+  height: 17px;
+  display: inline-block;
+  vertical-align: middle;
+  /*margin-right: 8px;*/
+  margin-bottom: 3px;
+  background-image: url(../img/done-icon.png);
+}
+
+.tab-content {
+  position: relative;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 65px;
+}
+
+.time-type-select-box .investment-time a {
+  font-size: 13px;
+  color: #00aaee;
+  display: inline-block;
+}
+
+.time-type-select-box .investment-time a:hover, .time-type-select-box .investment-time a:focus {
+  background-color: white;
+}
+
+.btn-search {
+  font-size: 12px;
+  padding: 3px 12px;
+  color: white;
+  border-radius: 1px;
+  background-color: #ff9700;
+  margin-bottom: 4px;
+}
+
+.tab-content table > thead {
+  font-size: 13px;
+  color: #9c9b9b;
+  border: 0;
+}
+
+.tab-content table > thead > tr > th {
+  text-align: center;
+  padding: 20px 5px;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.tab-content table > tbody > tr > td {
+  font-size: 14px;
+  text-align: center;
+  padding: 20px 5px;
+  border-top: 0;
+}
+

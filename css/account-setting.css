@@ -1,0 +1,78 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.services-side-menu {
+  height: 786px;
+}
+
+.account-setting-box {
+  position: relative;
+  width: 100%;
+  /*float: left;*/
+  margin-top: 15px;
+}
+
+.account-setting-content {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 65px;
+  border-top: 3px solid #ff9700;
+  padding: 40px 15px 55px 15px;
+}
+
+.account-setting-title {
+  font-size: 16px;
+  color: #ff737d;
+  margin-bottom: 15px;
+}
+
+.account-setting-content table {
+  margin-bottom: 75px;
+}
+
+.account-setting-content table > tbody > tr > td {
+  padding: 20px 25px;
+  text-align: center;
+}
+
+.account-setting-content table > tbody > tr > td:last-child {
+  width: 21%;
+}
+
+.setting-title {
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+}
+
+.setting-content {
+  font-size: 13px;
+  color: #999;
+  text-align: left;
+}
+
+.setting-status {
+  font-size: 13px;
+  color: #3e3e3e;
+  background-color: #f0fdff;
+}
+
+.setting-status.inactivated {
+  color: #999;
+}
+
+.setting-status img {
+  margin-right: 10px;
+}
+
+.setting-edit {
+  font-size: 13px;
+  color: #999;
+}
+
+.setting-edit a {
+  color: #00aaee;
+}

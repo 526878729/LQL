@@ -1,0 +1,85 @@
+.info-form-container {
+  width: 700px;
+  height: 669px;
+  margin: 0 auto;
+  padding: 1px 0;
+  color: #ebebeb;
+}
+
+.open-account-box {
+  position: relative;
+  width: 700px;
+  height: 580px;
+  border-radius: 20px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 35px 35px;
+}
+
+.open-account-box h2 {
+  font-size: 18px;
+  color: #27c5dc;
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 5px;
+}
+
+.identity-info-box {
+  position: relative;
+  width: 100%;
+  margin-bottom: 13px;
+}
+
+.identity-info-box li {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.identity-info-box p {
+  width: 70px;
+  color: #ff9600;
+  display: inline-block;
+}
+
+.identity-info-box span {
+  color: black;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.account-info-box {
+  position: relative;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.account-info-box label {
+  color: #ff9600;
+}
+
+.account-info-box p {
+  font-size: 12px;
+  display: inline-block;
+  padding-top: 18px;
+}
+
+.border-line {
+  position: relative;
+  width: 600px;
+  left: 5px;
+  top: 0;
+  border-bottom: 1px solid #eeeeee;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.checkbox {
+  font-size: 12px;
+}
+
+.checkbox a {
+  color: #ff737d;
+  text-decoration: underline;
+}

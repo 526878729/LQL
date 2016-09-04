@@ -1,0 +1,116 @@
+a:hover, a:focus {
+  text-decoration: none;
+}
+
+.content-container {
+  width: 1173px;
+  height: auto;
+  position: relative;
+}
+
+.icon1-sm-mr {
+  margin: 17px 150px;
+}
+
+.icon2-sm-mr {
+  margin: 15px 150px;
+}
+
+.icon3-sm-mr {
+  margin: 19px 150px;
+}
+
+.bg-color-orange {
+  background-color: #ff9600;
+}
+
+.bg-color-blue {
+  background-color: #80dfed;
+}
+
+.bg-color-pink {
+  background-color: #ff737d;
+}
+
+.bg-color-gray1 {
+  background-color: #f5f5f5;
+}
+
+.bg-color-gray2 {
+  background-color: #e7e7e7;
+}
+
+.divide-line {
+  position: relative;
+  width: 100%;
+  height: 10px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.divide-line-small {
+  position: relative;
+  height: 34px;
+  border: 1px solid white;;
+  margin: 2px 0;
+}
+
+.news-box {
+  position: relative;
+  width: 100%;
+}
+
+.box-content {
+  width: 100%;
+  height: 200px;
+  padding: 20px 20px;
+  color: #b1b1b1;
+}
+
+.box-border {
+  border: 1px solid #eeeeee;
+}
+
+.box-border-pink {
+  border: 2px solid #ff737d;
+  color: #979797;
+}
+
+.box-border-orange {
+  border: 2px solid #ff9600;
+  color: #979797;
+}
+
+.board-box {
+  position: relative;
+  width: 100%;
+}
+
+.icon-box1 {
+  height: 276px;
+  padding: 75px 0;
+  color: white;
+}
+
+.inside-right-box {
+  position: relative;
+  width: 100%;
+  padding: 80px 0 0 0;
+  color: white;
+}
+
+.icon-box2 {
+  height: 154px;
+  padding: 27px 0;
+  color: white;
+}
+
+.pink-cricle-box {
+  border-radius: 20px;
+  background-color: #ff737d;
+  color: white;
+}
+
+.footer-send-box {
+  width: 700px;
+}

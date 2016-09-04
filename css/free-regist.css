@@ -1,0 +1,28 @@
+.signin-container {
+  width: 280px;
+  height: 300px;
+  margin: 0 auto;
+  color: #ff9700;
+}
+
+.free-signin-box {
+  width: 280px;
+  border-radius: 20px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+  background: rgba(255, 255, 255, 0.9);
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+
+.button-box {
+  width: 280px;
+  margin-top: 15px;
+}
+
+.button-box a:hover, .button-box a:focus {
+  text-decoration: none;
+  color: #eeeeee;
+}
+

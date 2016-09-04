@@ -1,0 +1,28 @@
+.verified-box {
+  width: 310px;
+  height: 310px;
+  border-radius: 20px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+  background: rgba(255, 255, 255, 0.9);
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+
+.verified-box a {
+  font-size: 14px;
+  color: #21baed;
+  text-decoration: underline;
+}
+
+.verified-notify span {
+  font-size: 21.8px;
+  color: #ff7979;
+}
+
+.verified-notify p {
+  font-size: 12px;
+  color: #a6a3a3;
+  /*display: inline-block;*/
+}

@@ -1,0 +1,49 @@
+.signup-box {
+  width: 280px;
+  height: 396px;
+  border-radius: 20px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+  background: rgba(255, 255, 255, 0.9);
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+
+.checkbox {
+  font-size: 12px;
+}
+
+.checkbox a {
+  color: #ff737d;
+  text-decoration: underline;
+}
+
+.form-group .col-sm-6 {
+  padding: 0;
+}
+
+.btn-signin-now {
+  font-size: 13px;
+  color: #ff737d;
+  background-color: white;
+  line-height: 10px;
+  border: 1px solid #ff737d;
+  border-radius: 20px;
+}
+
+#validate-modal {
+  top: 15%;
+}
+
+.modal-body label {
+  font-size: 15px;
+  color: #ff9600;
+}
+
+.modal-body a {
+  font-size: 14px;
+  color: #21baed;
+  text-decoration: underline;
+}
+

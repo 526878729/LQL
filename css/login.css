@@ -1,0 +1,27 @@
+.signin-box {
+  width: 280px;
+  height: 328px;
+  border-radius: 20px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+  background: rgba(255, 255, 255, 0.9);
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+
+.service-footer p {
+  display: inline-block;
+}
+
+.alert-bg-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-color: #7f7f7f;
+}
+
+.alert-bg {
+  position: absolute;
+  background-color: #7f7f7f;
+}

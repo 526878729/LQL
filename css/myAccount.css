@@ -1,0 +1,279 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.services-side-menu {
+  height: 1130px;
+}
+
+.boder-r {
+  border-right: 1px solid #fbf7f1;
+}
+
+.account-info-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  /*padding: 30px 0 20px 0;*/
+}
+
+.account-info-left-box {
+  position: relative;
+  width: 50%;
+  float: left;
+  padding: 30px 16px 20px 0;
+}
+
+.account-info-right-box {
+  position: relative;
+  width: 50%;
+  float: left;
+  border-left: 6px solid #fffdfb;
+  padding: 30px 0 20px 10px;
+}
+
+.user-info-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.user-info-box img {
+  margin-bottom: 12px;
+}
+
+.user-info-box h3 {
+  display: inline-block;
+  font-size: 16px;
+  color: #4d4d4d;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 25px;
+  vertical-align: middle;
+}
+
+.user-info-box p {
+  font-size: 12px;
+  color: #aeaeae;
+}
+
+.user-services-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  text-align: center;
+  padding-left: 10px;
+  border-left: 1px solid #ededed;
+}
+
+.user-services-box img {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 18px;
+}
+
+.user-services-box a {
+  font-size: 12px;
+}
+
+.available-balance {
+  position: relative;
+  width: 100%;
+  float: left;
+  font-size: 14px;
+  color: #4d4d4d;
+  padding-left: 7px;
+  margin-bottom: 18px;
+}
+
+.available-balance span {
+  font-size: 20px;
+  color: #f72c2c;
+}
+
+.user-money-box {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.user-money-box h5 {
+  font-size: 12px;
+  color: #fff;
+}
+
+.user-money-box span {
+  font-size: 16px;
+  color: #fff;
+}
+
+.freezing-funds {
+  position: relative;
+  width: 45%;
+  float: left;
+  margin-left: 20px;
+  margin-right: 5px;
+  padding: 5px 0 10px 0;
+  background-color: #ff7c48;
+}
+
+.freezing-funds img {
+  padding: 8px 0 0 10px;
+}
+
+.account-funds {
+  position: relative;
+  width: 45%;
+  float: left;
+  padding: 5px 0 10px 0;
+  background-color: #4cc3a5;
+}
+
+.account-funds img {
+  padding: 4px 0 0 5px;
+}
+
+.btn-recharge-orange {
+  font-size: 14px;
+  color: white;
+  padding: 2px 25px;
+  border-radius: 2px;
+  background-color: #ff9700;
+}
+
+.btn-withdraw-white {
+  font-size: 14px;
+  color: #ff9700;
+  padding: 2px 25px;
+  border: 1px solid #ff9700;
+  border-radius: 2px;
+  background-color: #fff;
+}
+
+.investment-record-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.myaccount-title {
+  font-size: 16px;
+  color: #747373;
+}
+
+.investment-record-content {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+.investment-record-content img {
+  margin-top: 40px;
+}
+
+.investment-record-content p {
+  font-size: 13px;
+  color: #898989;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 75px;
+}
+
+.investment-record-content > table > thead {
+  font-size: 13px;
+  color: #9c9b9b;
+  border: 0;
+}
+
+.investment-record-content > table > thead > tr > th {
+  text-align: center;
+  padding: 20px 5px;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.investment-record-content > table > tbody > tr > td {
+  font-size: 14px;
+  text-align: center;
+  padding: 20px 5px;
+  border-top: 0;
+}
+
+.link a {
+  color: #00aaee;
+  text-decoration: underline;
+}
+
+.net-assets-introduce-box {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: white;
+  margin-bottom: 15px;
+}
+
+.net-assets-title {
+  font-size: 20px;
+  color: #ff9700;
+  text-align: center;
+  margin: 25px 0;
+}
+
+.net-assets-introduce-content {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #e0fbff;
+  padding: 35px 5px 35px 15px;
+  margin-bottom: 60px;
+}
+
+.assets-content {
+  position: relative;
+  width: 19%;
+  float: left;
+  text-align: left;
+  padding-left: 37px;
+}
+
+.assets-name {
+  font-size: 14px;
+  color: #4d4d4d;
+}
+
+.assets-funds {
+  font-size: 18px;
+  color: #ff737d;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle;
+}
+
+.freeezing {
+  font-size: 17px;;
+  color: #ff9600;
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.assets-icon {
+  position: relative;
+  width: 6%;
+  float: left;
+  margin-top: 5px;
+}
+
+.products-recommended-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  padding-bottom: 10px;
+  margin-bottom: 65px;
+}

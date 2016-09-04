@@ -1,0 +1,98 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.services-side-menu {
+  height: 736px;
+}
+
+.bond-transfer-tabs-box {
+  position: relative;
+  width: 100%;
+  float: left;
+  margin-top: 15px;
+}
+
+.bond-details-box {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 30px;
+  border-top: 3px solid #ff9700;
+  font-size: 12px;
+  color: #5d5d5d;
+  text-align: center;
+  padding: 40px 15px 65px 15px;
+}
+
+.bond-details-box table > thead > tr > th {
+  background-color: #f0fbff;
+  border-bottom: 0;
+  text-align: center;
+  padding: 12px 8px;
+}
+
+.bond-details-box table > tbody > tr > td {
+  padding: 12px 8px;
+}
+
+.nav-tabs li {
+  padding: 0 5px 0 0;
+}
+
+.nav-tabs li a {
+  font-size: 16px;
+  padding: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  background-color: #fff;
+}
+
+.nav-tabs li a > img {
+  margin-right: 8px;
+  margin-bottom: 2px;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+  font-size: 16px;
+  color: #ff9700;
+  cursor: default;
+  padding-bottom: 20px;
+  background-color: #fff;
+  /*border-top: 4px solid #ff9700;*/
+  border-bottom-color: transparent
+}
+
+/*click to change icon*/
+.nav-tabs li a .bond-icon {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 3px;
+  background-image: url(../img/bond-transfer-tab-icon.png);
+}
+
+.nav-tabs li a .buy-record-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 3px;
+  background-image: url(../img/buy-record-tab-icon.png);
+}
+
+.tab-content {
+  position: relative;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 65px;
+  padding: 50px 0;
+}
+
+.no-record {
+  font-size: 16px;
+  color: #999;
+  margin-top: 15px;
+}
